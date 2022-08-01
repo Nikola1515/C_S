@@ -1,5 +1,2 @@
 /.vscode
-/array
-/I
-/pointer
-/struct
+*.exe
